@@ -1,4 +1,4 @@
-# Improve-Deep-Learning-With-PSO
+# Improve-Deep-Learning-With-PSO For Prediction/Forecasting
 Improve Deep Learning With Particle Swarm Optimization (Deep PSO)
 
 by: Imam Cholissodin, Sutrisno, from Faculty of Computer Science (FILKOM), Universitas Brawijaya (UB), Malang, Indonesia. email: {*imamcs, trisno}@ub.ac.id
